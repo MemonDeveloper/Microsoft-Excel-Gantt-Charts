@@ -2,6 +2,14 @@
 
 -----
 
+GanttChart (1)
+![GanttChart (1)](https://github.com/user-attachments/assets/736a18c9-2caf-472e-b920-a530376d751d)
+
+GanttChart (2)
+![GanttChart (2)](https://github.com/user-attachments/assets/2ded3bed-9e7a-48aa-81f7-d0b4e7b4a341)
+
+-----
+
 ## Support My Work ❤️
 
 If you find this project useful and would like to support its development, any contribution is greatly appreciated\! Your support helps in maintaining and improving this application.
